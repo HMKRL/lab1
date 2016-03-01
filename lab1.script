@@ -1,0 +1,15 @@
+Script started on 2016年03月01日 (週二) 21時01分16秒
+]0;F74046349@2015cpp: ~[01;32mF74046349@2015cpp[00m:[01;34m~[00m$ cd ..git config -l[3Pwhoami;pwdssh git@github.com[11Prul3284ssh git@github.compd2[Kls /usr/binpd2[Kssh git@github.com[11Prul3284ssh git@github.com[8Pwhoami;pwdgit config -l[3Pwhoami;pwd
+F74046349
+/home/F74046349
+]0;F74046349@2015cpp: ~[01;32mF74046349@2015cpp[00m:[01;34m~[00m$ whoami;pwd[5Pcd ..git config -l
+user.email=a135246a135246@gmail.com
+user.name=Yu-Cheng Liang
+core.editor=vim
+]0;F74046349@2015cpp: ~[01;32mF74046349@2015cpp[00m:[01;34m~[00m$ git clone gi[K[Kgit@github.com:HMKRL/lab1.git
+Cloning into 'lab1'...
+Enter passphrase for key '/home/F74046349/.ssh/id_rsa': 
+warning: You appear to have cloned an empty repository.
+]0;F74046349@2015cpp: ~[01;32mF74046349@2015cpp[00m:[01;34m~[00m$ exit
+
+Script done on 2016年03月01日 (週二) 21時02分12秒
